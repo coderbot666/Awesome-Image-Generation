@@ -42,6 +42,7 @@ Welcome to the **Image Generation Landscape**—a comprehensive, curated reposit
 | **[igly.ai](https://igly.ai)** | AI image editing platform (background removal, inpainting, upscaling). | Paid plans start at $12/month | Limited free credits | <$5M valuation (Seed stage) |
 | **[DaoXE](https://daoxe.com)** | Multi-model multi-protocol AI API gateway with OpenAI-compatible image generation plus chat protocols; public examples at [DaoXE-AI](https://github.com/seven7763/DaoXE-AI). Not available in mainland China. | Usage-based API | Account-dependent | Independent |
 | **[PixGT](https://pixgt.cn)** | E-commerce product imagery: scene photos from white-background shots, plus clothing try-on, model swapping and accessory try-on. | Credit-based, no public price list | Free credits on signup | Early-stage startup (Shenzhen) |
+| **[Seedream 5.5](https://seedream5-5.net/)** | Text-to-image and reference-photo generation with plain-language edits to backgrounds, lighting and in-image text (Chinese/English). | Credit-based | 100 starter credits on signup | Independent |
 
 ---
 
